@@ -25,7 +25,7 @@ This project demonstrates the implementation of a Library Management System usin
 - **Database Creation**: Created a database named `LMS_PROJECT`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
 
-- **Use this Query to create tables in the database** `all_tables_LMS`
+- **Import this Query file to create tables in the database** `all_tables_LMS`
 
 ### 2. CRUD Operations
 
@@ -139,6 +139,7 @@ This project demonstrates the application of SQL skills in creating and managing
 This project showcases SQL skills essential for database management and analysis. 
 
 Thank you for your interest in this project!
+
 
 
 
