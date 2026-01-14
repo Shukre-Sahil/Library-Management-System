@@ -4,11 +4,11 @@
 
 **Project Title**: Library Management System  
 **Level**: Intermediate  
-**Database**: `library_db`
+**Database**: `LMS_PROJECT`
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
+![Library_project]<img width="1200" height="627" alt="image" src="https://github.com/user-attachments/assets/63b47fba-7823-4f13-8b20-14942437a4e7" />
 
 ## Objectives
 
@@ -520,3 +520,4 @@ This project showcases SQL skills essential for database management and analysis
 - **Discord**: [Join our community for learning and collaboration](https://discord.gg/36h5f2Z5PK)
 
 Thank you for your interest in this project!
+
