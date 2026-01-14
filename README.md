@@ -129,7 +129,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 1. **Clone the Repository**: Clone this repository to your local machine.
    ```sh
-   git clone https://github.com/najirh/Library-System-Management---P2.git
+   git clone https://github.com/Shukre-Sahil/Library-Management-System.git
    ```
 
 2. **Set Up the Database**: Execute the SQL scripts in the `all_tables_LMS.sql` and `insert_queries` file to create and populate the database.
@@ -141,6 +141,7 @@ This project demonstrates the application of SQL skills in creating and managing
 This project showcases SQL skills essential for database management and analysis. 
 
 Thank you for your interest in this project!
+
 
 
 
