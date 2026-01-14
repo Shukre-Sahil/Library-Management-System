@@ -1,0 +1,36 @@
+isbn,book_title,category,rental_price,status,author,publisher
+978-0-553-29698-2,The Catcher in the Rye,Classic,7,yes,J.D. Salinger,"Little, Brown and Company"
+978-0-553-29698-3,Animal Farm,Classic,5.5,yes,George Orwell,"Little, Brown and Company"
+978-0-553-29698-4,One Hundred Years of Solitude,Literary Fiction,6.5,yes,Gabriel Garcia Marquez,Penguin Books
+978-0-553-29698-5,The Great Gatsby,Classic,8,yes,F. Scott Fitzgerald,Scribner
+978-0-553-29698-6,Jane Eyre,Classic,4,yes,Charlotte Bronte,Penguin Classics
+978-0-553-29698-7,The Alchemist,Fiction,2.5,yes,Paulo Coelho,HarperOne
+978-0-553-29698-8,Harry Potter and the Sorcerers Stone,Fantasy,7,yes,J.K. Rowling,Scholastic
+978-0-553-29698-9,The Da Vinci Code,Mystery,8,yes,Dan Brown,Doubleday
+978-0-553-29698-10,A Game of Thrones,Fantasy,7.5,yes,George R.R. Martin,Bantam
+978-0-553-29698-11,A Peoples History of the United States,History,9,yes,Howard Zinn,Harper Perennial
+978-0-553-29698-12,The Guns of August,History,7,yes,Barbara W. Tuchman,Oxford University Press
+978-0-553-29698-13,Sapiens: A Brief History of Humankind,History,8,no,Yuval Noah Harari,Harper Perennial
+978-0-553-29698-14,The Diary of a Young Girl,History,6.5,no,Anne Frank,Bantam
+978-0-553-29698-15,The Histories,History,5.5,yes,Herodotus,Penguin Classics
+978-0-553-29698-16,"Guns, Germs, and Steel: The Fates of Human Societies",History,7,yes,Jared Diamond,W. W. Norton & Company
+978-0-553-29698-17,1491: New Revelations of the Americas Before Columbus,History,6.5,no,Charles C. Mann,Vintage Books
+978-0-553-29698-18,1984,Dystopian,6.5,yes,George Orwell,Penguin Books
+978-0-553-29698-19,Pride and Prejudice,Classic,5,yes,Jane Austen,Penguin Classics
+978-0-553-29698-20,Brave New World,Dystopian,6.5,yes,Aldous Huxley,Harper Perennial
+978-0-553-29698-21,The Road,Dystopian,7,yes,Cormac McCarthy,Knopf
+978-0-553-29698-22,The Shining,Horror,6,yes,Stephen King,Doubleday
+978-0-553-29698-23,Fahrenheit 451,Dystopian,5.5,yes,Ray Bradbury,Ballantine Books
+978-0-553-29698-24,Dune,Science Fiction,8.5,yes,Frank Herbert,Ace
+978-0-553-29698-25,The Road,Dystopian,7,yes,Cormac McCarthy,Vintage
+978-0-553-29698-26,Where the Wild Things Are,Children,3.5,yes,Maurice Sendak,HarperCollins
+978-0-553-29698-27,The Kite Runner,Fiction,5.5,yes,Khaled Hosseini,Riverhead Books
+978-0-553-29698-28,Charlotte's Web,Children,4,yes,E.B. White,Harper & Row
+978-0-553-29698-29,Beloved,Fiction,6.5,yes,Toni Morrison,Knopf
+978-0-553-29698-30,A Tale of Two Cities,Classic,4.5,yes,Charles Dickens,Penguin Books
+978-0-553-29698-31,The Stand,Horror,7,yes,Stephen King,Doubleday
+978-0-553-29698-32,Moby Dick,Classic,6.5,yes,Herman Melville,Penguin Books
+978-0-553-29698-33,To Kill a Mockingbird,Classic,5,yes,Harper Lee,J.B. Lippincott & Co.
+978-0-553-29698-34,1984,Dystopian,6.5,yes,George Orwell,Penguin Books
+978-0-553-29698-35,Angels & Demons,Mystery,7.5,yes,Dan Brown,Doubleday
+978-0-553-29698-36,The Hobbit,Fantasy,7,yes,J.R.R. Tolkien,Houghton Mifflin Harcourt
