@@ -1,4 +1,4 @@
-# Library Management System using SQL Project --P2
+# Library Management System using SQL Project -P2
 
 ## Project Overview
 
@@ -33,6 +33,8 @@ This project demonstrates the implementation of a Library Management System usin
 - **Read**: Retrieved and displayed data from various tables.
 - **Update**: Updated records in the `employees` table.
 - **Delete**: Removed records from the `members` table as needed.
+
+#### Tasks performed (Intermediate level)
 
 **Task 1. Create a New Book Record**
 -- "978-1-60129-456-2', 'To Kill a Mockingbird', 'Classic', 6.00, 'yes', 'Harper Lee', 'J.B. Lippincott & Co.')"
@@ -69,7 +71,7 @@ Task 11. **Create a Table of Books with Rental Price Above a Certain Threshold**
 
 Task 12: **Retrieve the List of Books Not Yet Returned**
 
-## Advanced SQL Operations
+##  Tasks performed - Advanced SQL Operations
 
 **Task 13: Identify Members with Overdue Books**  
 Write a query to identify members who have overdue books (assume a 30-day return period). Display the member's_id, member's name, book title, issue date, and days overdue.
@@ -130,8 +132,8 @@ This project demonstrates the application of SQL skills in creating and managing
    git clone https://github.com/najirh/Library-System-Management---P2.git
    ```
 
-2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries in the `analysis_queries.sql` file to perform the analysis.
+2. **Set Up the Database**: Execute the SQL scripts in the `all_tables_LMS.sql` and `insert_queries` file to create and populate the database.
+3. **Run the Queries**: Use the SQL queries in the `task_1to_12.sql` file to perform the analysis.
 4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
 
 ## Author - Sahil Shukre
@@ -139,6 +141,7 @@ This project demonstrates the application of SQL skills in creating and managing
 This project showcases SQL skills essential for database management and analysis. 
 
 Thank you for your interest in this project!
+
 
 
 
