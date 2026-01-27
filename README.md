@@ -117,7 +117,7 @@ This project demonstrates the application of SQL skills in creating and managing
    ```
 
 2. **Set Up the Database**: Execute the SQL scripts in the `all_tables_LMS.sql` and `insert_queries` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries in the `task_1to_12.sql` file to perform the analysis.
+3. **Run the Queries**: Use the SQL queries in the `task_1to_12.sql` file to perform beginner level analysis and `task_13_to_18` file for some advanced level analysis.
 4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
 
 ## Author - Sahil Shukre
@@ -125,6 +125,7 @@ This project demonstrates the application of SQL skills in creating and managing
 This project showcases SQL skills essential for database management and analysis. 
 
 Thank you for your interest in this project!
+
 
 
 
